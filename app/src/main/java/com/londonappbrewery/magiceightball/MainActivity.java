@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.ball3,
                 R.drawable.ball4,
                 R.drawable.ball5};
-
+  
         Button askButton;
         askButton=(Button) findViewById(R.id.Ask_button);
         askButton.setOnClickListener(new View.OnClickListener() {
